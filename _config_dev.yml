@@ -1,12 +1,12 @@
 # Site Settings
-title: Start Jekyll
-email: taniarascia@gmail.com
+title: Betta Dev Indonesia
+email: bettadevindonesia@gmail.com
 description: >
-  A guide to getting started with Jekyll.
+  Small Blog to Comunity
 baseurl: ""
 url: "http://localhost:4000"
-twitter_username: taniarascia
-github_username:  taniarascia
+twitter_username: trojan302
+github_username:  trojan302
 # Build Settings
 sass:
   sass_dir: _sass
